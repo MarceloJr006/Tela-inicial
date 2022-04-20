@@ -1,0 +1,18 @@
+.tela1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding: 30px;
+    
+}
+
+.tela1 a{
+    padding-top: 30px;
+    font-size: 40px;
+    text-decoration: none;
+    color: red;
+}
+
+.tela1 a:hover{
+    color: aqua;
+}
